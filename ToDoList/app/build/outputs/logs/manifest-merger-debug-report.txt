@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/toandx/.gradle/caches/transforms-2/files-2.1/b46625e235f5762539284ad15ed60e9d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/toandx/.gradle/caches/transforms-2/files-2.1/61a3cc8e0f35fd9b32ad009fb8629aa3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/80489a68fc4791b2463225deb027feaf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/a0a6d9a6821e58810b0f0295487a8cc3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/48931078156aeaae9568afdcce1ea607/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/a0af863c338439ef50386f6beba8bb79/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/toandx/.gradle/caches/transforms-2/files-2.1/f9664855a121fae8c72d313a6ed8e270/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/05e2f23d3c8ace510e273e29a03a79c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/d8a6f2925cc86e01e4303602491c00f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/5e4ca138895e955f4c6edff827a9f537/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/e5d59e057346a2f970285182948c721c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/5fba377a5cbf61017b8db9445d85913c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/027c2da1f28c061be99472383fd136b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/2d2d2da4961fb143cdc5ad225165d99f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/52a770f86bf045400a8ebde4541b9805/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/toandx/.gradle/caches/transforms-2/files-2.1/ca727e08560e88bafc250a5088f8e077/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/28337a03169bd0564017fa2d8795358c/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/498b7f6ab006f158fce3b12691ca9702/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/d7cc310fb42e246b1d51b3ba077cce03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/b75921c68a98811907404540856db013/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/5233ef6ecee687ad94f6f07404ae82fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/acfcd9432b4f95191a22c947a291a98e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/f543cc0758fd0cadae32adc3f01544ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/f0570c38d82c7645b637e0a9505f5d2c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/585f891c3dfd9dda7a9cb5a0d1b21bf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/45ef5c6d00ea17006c042cf114c1c7ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/819ac69c2617651bdb9aecbf1111fa9b/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/toandx/.gradle/caches/transforms-2/files-2.1/61a3cc8e0f35fd9b32ad009fb8629aa3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/toandx/.gradle/caches/transforms-2/files-2.1/61a3cc8e0f35fd9b32ad009fb8629aa3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/toandx/.gradle/caches/transforms-2/files-2.1/ca727e08560e88bafc250a5088f8e077/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/toandx/.gradle/caches/transforms-2/files-2.1/ca727e08560e88bafc250a5088f8e077/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/28337a03169bd0564017fa2d8795358c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/28337a03169bd0564017fa2d8795358c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/toandx/.gradle/caches/transforms-2/files-2.1/ca727e08560e88bafc250a5088f8e077/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:7:9-38
+	android:allowBackup
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:11:9-40
+activity#svmc.toandx.todolist.MainActivity
+ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/toandx/.gradle/caches/transforms-2/files-2.1/b46625e235f5762539284ad15ed60e9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/toandx/.gradle/caches/transforms-2/files-2.1/b46625e235f5762539284ad15ed60e9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/toandx/.gradle/caches/transforms-2/files-2.1/61a3cc8e0f35fd9b32ad009fb8629aa3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/toandx/.gradle/caches/transforms-2/files-2.1/61a3cc8e0f35fd9b32ad009fb8629aa3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/80489a68fc4791b2463225deb027feaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/80489a68fc4791b2463225deb027feaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/a0a6d9a6821e58810b0f0295487a8cc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/a0a6d9a6821e58810b0f0295487a8cc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/48931078156aeaae9568afdcce1ea607/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/48931078156aeaae9568afdcce1ea607/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/a0af863c338439ef50386f6beba8bb79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/a0af863c338439ef50386f6beba8bb79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/toandx/.gradle/caches/transforms-2/files-2.1/f9664855a121fae8c72d313a6ed8e270/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/toandx/.gradle/caches/transforms-2/files-2.1/f9664855a121fae8c72d313a6ed8e270/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/05e2f23d3c8ace510e273e29a03a79c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/05e2f23d3c8ace510e273e29a03a79c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/d8a6f2925cc86e01e4303602491c00f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/d8a6f2925cc86e01e4303602491c00f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/5e4ca138895e955f4c6edff827a9f537/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/5e4ca138895e955f4c6edff827a9f537/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/e5d59e057346a2f970285182948c721c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/e5d59e057346a2f970285182948c721c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/5fba377a5cbf61017b8db9445d85913c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/5fba377a5cbf61017b8db9445d85913c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/027c2da1f28c061be99472383fd136b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/027c2da1f28c061be99472383fd136b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/2d2d2da4961fb143cdc5ad225165d99f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/2d2d2da4961fb143cdc5ad225165d99f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/52a770f86bf045400a8ebde4541b9805/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/52a770f86bf045400a8ebde4541b9805/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/toandx/.gradle/caches/transforms-2/files-2.1/ca727e08560e88bafc250a5088f8e077/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/toandx/.gradle/caches/transforms-2/files-2.1/ca727e08560e88bafc250a5088f8e077/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/28337a03169bd0564017fa2d8795358c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/28337a03169bd0564017fa2d8795358c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/498b7f6ab006f158fce3b12691ca9702/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/498b7f6ab006f158fce3b12691ca9702/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/d7cc310fb42e246b1d51b3ba077cce03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/d7cc310fb42e246b1d51b3ba077cce03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/b75921c68a98811907404540856db013/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/b75921c68a98811907404540856db013/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/5233ef6ecee687ad94f6f07404ae82fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/5233ef6ecee687ad94f6f07404ae82fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/acfcd9432b4f95191a22c947a291a98e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/acfcd9432b4f95191a22c947a291a98e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/f543cc0758fd0cadae32adc3f01544ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/f543cc0758fd0cadae32adc3f01544ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/f0570c38d82c7645b637e0a9505f5d2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/f0570c38d82c7645b637e0a9505f5d2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/585f891c3dfd9dda7a9cb5a0d1b21bf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/585f891c3dfd9dda7a9cb5a0d1b21bf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/45ef5c6d00ea17006c042cf114c1c7ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/45ef5c6d00ea17006c042cf114c1c7ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/819ac69c2617651bdb9aecbf1111fa9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/toandx/.gradle/caches/transforms-2/files-2.1/819ac69c2617651bdb9aecbf1111fa9b/AndroidManifest.xml:20:5-44
+INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+		ADDED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/toandx/RecodeAndroid/ToDoList/app/src/main/AndroidManifest.xml
